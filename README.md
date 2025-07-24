@@ -1,5 +1,5 @@
-<h1 align="center">🌲 Soul-Heal v2.0</h1>
-<h3 align="center">Web Page of Mansi Dwivedi, The site consists a medium to start doing yoga ,meditations and techniques that would help you align yourself. More info insde.</h3>
+<h1 align="center">🌲 YouTube @dwiv18 | Insta @dwiv_editz</h1>
+<h3 align="center">My personal site with all important links, email URLs, and details in one place..</h3>
 
 <p align="center">  
   <a href="https://www.linkedin.com/in/sanskar1812/">
@@ -30,11 +30,11 @@ This is an open source project.
 
 ## 🚀 Getting started
 
-The services consists a series of yoga ,meditations and techniques that would help you align yourself. Easy breathing techniques to balance out your energies. You would experience changes in yourself and changes in your lifestyle. Remember the Divine power is always around us. The only thing we need to work on is purifying ourselves to tap into that power.
+A personal web page that contains all my essential links and email URLs with complete information.
 
 ## 🤔 How to contribute
 
-Join the Class.
+Follow me on Youtube & Insta 
 
 
 ## 📝 License
